@@ -9,7 +9,7 @@ public class UseCalculator {
 	calc.sub();
 	
 	
-	
+	System.out.println("");
 	
 	}
 }
